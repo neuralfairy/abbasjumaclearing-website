@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Abbas Juma Clearing Solutions - Advanced B2B Lead Generation",
   description:
     "Transform your business with cutting-edge B2B lead generation technology. Abbas Juma Clearing Solutions delivers high-quality, targeted leads using AI-powered prospecting and multi-channel outreach.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords:
     "B2B lead generation, targeted prospecting, sales acceleration, lead generation, B2B sales tools, Abbas Juma",
   openGraph: {
